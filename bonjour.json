@@ -1,0 +1,10 @@
+{ "maListe" :	
+	
+
+	[
+ 	{"nom": "Chaoui", "prenom": "Younes", "age": 25, "taille": 170}, 	
+ 	{"nom": "Lefebvre", "prenom": "Rémi", "age": 25, "taille": 188},
+ 	{"nom": "Richeux", "prenom": "Rébecca", "age": 24, "taille": 183},
+	{"nom": "Canevet", "prenom": "Julie", "age": 23, "taille": 164}
+ 	]
+ }
